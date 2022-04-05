@@ -3,7 +3,7 @@ import { useEffect, useState } from 'react';
 const useCar = () => {
     const [cars, setCars] = useState([])
     useEffect(() => {
-        fetch('car.json')
+        fetch('review.json')
             .then(res => res.json())
             .then(data => setCars(data))
     }, [])

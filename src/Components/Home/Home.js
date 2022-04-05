@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 //import useCar from '../../hooks/useCar';
 import photo1 from '../../img/2.png'
  const Home = () => {
-    // const [cars] = useCar();
+    //const [cars] = useCar();
     // let getCar= cars.slice(0, 3);
 
     return (
