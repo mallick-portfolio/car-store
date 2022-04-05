@@ -2,7 +2,7 @@ import React from 'react';
 import photo1 from '../../img/3.png'
 const NotFound = () => {
     return (
-        <div>
+        <div className='flex justify-center items-center  h-80 '>
             <img src={photo1} alt="" />
         </div>
     );
