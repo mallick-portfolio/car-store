@@ -1,0 +1,44 @@
+[
+    {
+      "id": "1",
+      "name": "Smith",
+      "comment": "I love the Toyota 4 Runner my husband just bought himself. It's spacious. Perfect for my wheelchair, rollator and walker plus groceries. Great running vehicle. He had a Toyota Camry which he had traded in for the 4 runner, it was a nice vehicle but too small for us and unable to fit my medical supplies in it... I have a Lincoln MKX and it's small and low in which I plan on trading it sometime soon possibly for the Highlander. Not sure as of yet.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJVl8AFIbEG4MYhkjmnl38iO3UVE_aMH7QDg&usqp=CAU",
+      "ratings": "4/5"
+    },
+    {
+      "id": "2",
+      "name": "Barron David",
+      "comment": "40 plus years of buying nothing but Toyota. 4 in my driveway right now. But no more! They used to be excellent about addressing defects in their vehicles. No more - they refuse to correct flawe improved headlight assemblies. They were always on top of safety issues in the past regardless of whether your vehicle was still in warranty or not. Even when recalls were not mandated. Obviously when they won't take care of widespread randomly failing headlights, that policy is no more. So I say - Toyota no more!",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd-nReFqUc8hl1PbLCBj-T7nwF6GEgF-xUkA&usqp=CAU ",
+      "ratings": "5/5"
+    },
+    {
+      "id": "3",
+      "name": "Gough Muel",
+      "comment": "The motors are really good. They last a long time. The drive train is really good. The body will rust off before the motor goes bad. Get good gas mileage around 20 miles to the gallon on most. The seat belts are strong and the air bags don't burn you when they hit your chest. Well already mine didn't. The storing is perfect. It will take a curve like it's out of this world and the brakes will stop you on a dime. Parts are really cheap for the most part and the motors if you ever have to work on it besides regular stuff the motors are very easy and simple to work on.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2YNmQAqDFlffQt589dsovPv32k_NxktcwZQ&usqp=CAU",
+      "ratings": "5/5"
+    },
+    {
+      "id": "4",
+      "name": "Michael",
+      "comment": "Toyota went out of their way to make their cars more affordable. I was offered a First Responder Discount. Then they also had a $1000 rebate. Their vehicle is extremely reliable. I have traveled extensively with it and put it through its paces and been very happy with its performance. I also tow a 3000 lb camper with it and it doesn't feel like it's back there. Highly recommended all around vehicle. For reference, I drive the 2018 Toyota 4Runner.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwcGYx13u8Mx64uhbVVVxSZv_e5v6jOyFwpg&usqp=CAU",
+      "ratings": "3/5"
+    },
+    {
+      "id": "5",
+      "name": "Emery",
+      "comment": "Reliable, is easy to drive, includes updated features and safety features. Adequate space. I have been Driving Toyota Corolla for many years and have been very satisfied. My next car will be a Corolla.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvFAt0vOY3UriUOeKlc1S2lImMsKwW2dFoaQ&usqp=CAU",
+      "ratings": "5/5"
+    },
+    {
+      "id": "6",
+      "name": "Alfred",
+      "comment": "I was not able to make payments so they took the car. Then after they sold the car there was a balance of $4,689.28 which I was not aware of. 2019 comes in and they hired Rubin and Rothman law firm and this law firm of crooks is trying to charge me $11133.56 with interest fees and according to Toyota interest fees are never charged on a closed account. Shame on YOU Toyota!!! For not doing your due diligence and hiring a bunch of THUGS to misrepresent YOU!",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0Ioq4vwF7VrcROmZm3BdTD4hZ9xGSbGmoug&usqp=CAU",
+      "ratings": "4/5"
+    }
+]
