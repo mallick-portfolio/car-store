@@ -2,15 +2,15 @@ import React from 'react';
 const Blogs = () => {
     return (
         <div className='w-[80%] mx-auto py-2  px-2 my-3'>
-            <div className='border-2 px-5 pb-3 mb-5 rounded-lg'>
+            <div className='px-5 pb-3 mb-5 rounded-lg'>
                 <p className='text-2xl font-semibold '>What is context API?</p>
                 <p>Context API is to solve the problem of prop drilling (also called "Threading").This is the alternative to "prop drilling" or moving props from grandparent to child to parent, and so on. Context is also touted as an easier, lighter approach to state management using Redux.React hooks allow you to use local state inside function components, while the Context API allows you to share state with other components.</p>
             </div>
-            <div className='border-2 px-5 pb-3 mb-5 rounded-lg'>
+            <div className='px-5 pb-3 mb-5 rounded-lg'>
                 <p className='text-2xl font-semibold'>What is Semantic tag?</p>
                 <p>Semantics refers to the meaning of a piece of code. a p tag indicates that the enclosed text is a paragraph. This is both semantic and presentational because people know what paragraphs are, and browsers know how to display them.On the flip side of this equation, tags such as b tag and i tag are not semantic. They define only how the text should look (bold or italic), and don't provide any additional meaning to the markup.</p>
             </div>
-            <div className='border-2 px-5 pb-3 rounded-lg'>
+            <div className='px-5 pb-3 rounded-lg'>
                 <p className='text-2xl font-semibold'>Inline Vs Inline Block Vs Block</p>
                 <div>
                     <p className='font-semibold'>Inline</p>
