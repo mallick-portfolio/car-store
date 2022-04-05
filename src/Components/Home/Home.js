@@ -4,6 +4,7 @@ import useCar from '../../usehooks/useCar';
 import p1 from '../../img/2.png'
 import HomeReview from '../HomeReview/HomeReview';
  const Home = () => {
+     //hooks
     const [cars] = useCar();
     let getCar= cars.slice(0, 3);
 
